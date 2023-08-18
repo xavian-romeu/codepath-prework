@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "6410ebf8e483b5758186fbd8_ABM college mobile app dev main.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
